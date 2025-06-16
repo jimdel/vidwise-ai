@@ -1,4 +1,4 @@
-# VideoQuery
+# VidWise AI
 
 A tool that uses LLM technology to search through a video's audio content. This project enables a user to download YouTube videos, transcribe them, and create a searchable knowledge base using OpenAI's API.
 
